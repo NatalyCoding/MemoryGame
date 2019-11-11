@@ -1,2 +1,2 @@
 # MemoryGame
-Simple game built with HTMLS, CSS and vanilla JavaScript
+A simple game built with HTML, CSS and vanilla JavaScript
